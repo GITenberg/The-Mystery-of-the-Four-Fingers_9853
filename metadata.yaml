@@ -1,0 +1,31 @@
+_repo: The-Mystery-of-the-Four-Fingers_9853
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Fred M. (Fred Merrick)
+    aliases:
+    - White, Frederick Merrick
+    - White, Fred Merrick
+    birthdate: 1859
+    gutenberg_agent_id: '3160'
+    url: http://www.gutenberg.org/2009/agents/3160
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Merrick_White
+description: Settle in for a wild, thrill-a-minute ride with Fred M. White's The Mystery
+  of the Four Fingers. Far underground in a gold mine in Mexico, a death occurs under
+  very unusual circumstances. A group of amateur detectives decides to try their hand
+  at solving the case -- unwittingly putting their own lives at risk. Will this interlocking
+  set of crimes ever be solved?
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Mystery of the Four Fingers
+url: http://www.gutenberg.org/ebooks/9853
