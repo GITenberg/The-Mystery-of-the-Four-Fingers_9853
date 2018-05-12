@@ -1,5 +1,8 @@
 _repo: The-Mystery-of-the-Four-Fingers_9853
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White, Fred M. (Fred Merrick)
@@ -15,6 +18,8 @@ description: Settle in for a wild, thrill-a-minute ride with Fred M. White's The
   very unusual circumstances. A group of amateur detectives decides to try their hand
   at solving the case -- unwittingly putting their own lives at risk. Will this interlocking
   set of crimes ever be solved?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9853#The-Mystery-of-the-Four-Fingers
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
